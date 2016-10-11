@@ -1,0 +1,41 @@
+﻿  MainComponent.cpp
+c:\users\hemanth\dropbox\development\cs476a-homework2\source\drum.h(12): warning C4100: 'x': unreferenced formal parameter
+c:\users\hemanth\dropbox\development\cs476a-homework2\source\drum.h(16): warning C4100: 'x': unreferenced formal parameter
+c:\users\hemanth\dropbox\development\cs476a-homework2\source\drum.h(401): warning C4100: 'step': unreferenced formal parameter
+c:\users\hemanth\dropbox\development\cs476a-homework2\source\drum.h(401): warning C4100: 'fmax': unreferenced formal parameter
+c:\users\hemanth\dropbox\development\cs476a-homework2\source\drum.h(401): warning C4100: 'fmin': unreferenced formal parameter
+c:\users\hemanth\dropbox\development\cs476a-homework2\source\drum.h(401): warning C4100: 'init': unreferenced formal parameter
+c:\users\hemanth\dropbox\development\cs476a-homework2\source\drum.h(406): warning C4100: 'step': unreferenced formal parameter
+c:\users\hemanth\dropbox\development\cs476a-homework2\source\drum.h(406): warning C4100: 'fmax': unreferenced formal parameter
+c:\users\hemanth\dropbox\development\cs476a-homework2\source\drum.h(406): warning C4100: 'fmin': unreferenced formal parameter
+c:\users\hemanth\dropbox\development\cs476a-homework2\source\drum.h(406): warning C4100: 'init': unreferenced formal parameter
+c:\users\hemanth\dropbox\development\cs476a-homework2\source\drum.h(411): warning C4100: 'step': unreferenced formal parameter
+c:\users\hemanth\dropbox\development\cs476a-homework2\source\drum.h(411): warning C4100: 'fmax': unreferenced formal parameter
+c:\users\hemanth\dropbox\development\cs476a-homework2\source\drum.h(411): warning C4100: 'fmin': unreferenced formal parameter
+c:\users\hemanth\dropbox\development\cs476a-homework2\source\drum.h(411): warning C4100: 'init': unreferenced formal parameter
+c:\users\hemanth\dropbox\development\cs476a-homework2\source\drum.h(418): warning C4100: 'fmax': unreferenced formal parameter
+c:\users\hemanth\dropbox\development\cs476a-homework2\source\drum.h(418): warning C4100: 'fmin': unreferenced formal parameter
+c:\users\hemanth\dropbox\development\cs476a-homework2\source\drum.h(423): warning C4100: 'fmax': unreferenced formal parameter
+c:\users\hemanth\dropbox\development\cs476a-homework2\source\drum.h(423): warning C4100: 'fmin': unreferenced formal parameter
+c:\users\hemanth\dropbox\development\cs476a-homework2\source\drum.h(430): warning C4100: 'val': unreferenced formal parameter
+c:\users\hemanth\dropbox\development\cs476a-homework2\source\drum.h(430): warning C4100: 'key': unreferenced formal parameter
+c:\users\hemanth\dropbox\development\cs476a-homework2\source\drum.h(430): warning C4100: 'zone': unreferenced formal parameter
+c:\users\hemanth\dropbox\development\cs476a-homework2\source\drum.h(609): warning C4100: 'date_usec': unreferenced formal parameter
+c:\users\hemanth\dropbox\development\cs476a-homework2\source\drum.h(749): warning C4100: 'samplingFreq': unreferenced formal parameter
+c:\users\hemanth\dropbox\development\cs476a-homework2\source\drum.h(852): warning C4804: '>': unsafe use of type 'bool' in operation
+c:\users\hemanth\dropbox\development\cs476a-homework2\source\drum.h(834): warning C4100: 'input': unreferenced formal parameter
+c:\users\hemanth\dropbox\development\cs476a-homework2\source\maincomponent.cpp(10): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+c:\users\hemanth\dropbox\development\cs476a-homework2\source\maincomponent.cpp(10): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\hemanth\dropbox\development\cs476a-homework2\source\maincomponent.cpp(24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\hemanth\dropbox\development\cs476a-homework2\source\maincomponent.cpp(25): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\hemanth\dropbox\development\cs476a-homework2\source\maincomponent.cpp(26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\hemanth\dropbox\development\cs476a-homework2\source\maincomponent.cpp(21): warning C4100: 's': unreferenced formal parameter
+c:\users\hemanth\dropbox\development\cs476a-homework2\source\maincomponent.cpp(21): warning C4100: 'style': unreferenced formal parameter
+c:\users\hemanth\dropbox\development\cs476a-homework2\source\maincomponent.cpp(20): warning C4100: 'maxSliderPos': unreferenced formal parameter
+c:\users\hemanth\dropbox\development\cs476a-homework2\source\maincomponent.cpp(38): warning C4100: 'isMouseOverButton': unreferenced formal parameter
+c:\users\hemanth\dropbox\development\cs476a-homework2\source\maincomponent.cpp(37): warning C4100: 'backgroundColour': unreferenced formal parameter
+c:\users\hemanth\dropbox\development\cs476a-homework2\source\maincomponent.cpp(113): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\hemanth\dropbox\development\cs476a-homework2\source\maincomponent.cpp(116): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\hemanth\dropbox\development\cs476a-homework2\source\maincomponent.cpp(158): warning C4100: 'slider': unreferenced formal parameter
+c:\users\hemanth\dropbox\development\cs476a-homework2\source\maincomponent.cpp(163): warning C4100: 'button': unreferenced formal parameter
+  Homework2.vcxproj -> C:\Users\Hemanth\Dropbox\Development\cs476a-homework2\Builds\VisualStudio2015\Debug\Homework2.exe
